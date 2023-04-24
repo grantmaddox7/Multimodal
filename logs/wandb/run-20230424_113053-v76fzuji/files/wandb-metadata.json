@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.10.10",
+    "heartbeatAt": "2023-04-24T15:30:54.004815",
+    "startedAt": "2023-04-24T15:30:53.150639",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "config"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\grantmaddox\\Dropbox (UFL)\\Multimodal Datamining\\Fistula-Segmentation-main\\Fistula-Segmentation-main\\scripts\\fit.py",
+    "codePath": "scripts\\fit.py",
+    "host": "MAE-JA-5MKBPR3",
+    "username": "grantmaddox",
+    "executable": "C:\\Users\\grantmaddox\\Miniconda3\\envs\\Multimodal\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2100.0,
+        "min": 0.0,
+        "max": 2100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2100.0,
+            "min": 0.0,
+            "max": 2100.0
+        }
+    ],
+    "disk": {
+        "total": 943.7177696228027,
+        "used": 331.2477722167969
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.696025848388672
+    }
+}
